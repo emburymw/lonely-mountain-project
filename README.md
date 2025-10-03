@@ -1,6 +1,6 @@
-#The Lonely Mountain Project
+# The Lonely Mountain Project
 
-##In Development
+## In Development
 
 A gamified fitness challenge app that integrates with the Strava API. When a user opts in, it tracks cumulative distance from runs, hikes, or ski tours and maps progress against Bilbo's journey in The Hobbit.
 Key Features:
